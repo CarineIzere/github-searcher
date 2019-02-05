@@ -48,16 +48,17 @@
               <strong>Username: </strong>{{ user.login }}
             </li>
             <li class="list-group-item">
-              <strong>Repositories: </strong>{{ user.repositories }}
+              <strong>Repositories: </strong>{{ user.public_repos }}
             </li>
             <li class="list-group-item">
-              <strong>Location: </strong>{{ user.location }}
+              <strong>Followers: </strong>{{ user.followers }}
+            </li>
+
+            <li class="list-group-item">
+              <strong>Following: </strong>{{ user.following }}
             </li>
             <li class="list-group-item">
               <strong>Email: </strong>{{ user.email }}
-            </li>
-            <li class="list-group-item">
-              <strong>Blog: </strong>{{ user.blog }}
             </li>
             <li class="list-group-item">
               <strong>Member Since: </strong>{{ user.created_at }}

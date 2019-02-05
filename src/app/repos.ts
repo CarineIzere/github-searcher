@@ -1,9 +1,10 @@
 export class Repos {
   constructor(
     public Username: string,
-    public Repository: string,
-    public Location: string,
+    public Repositories: string,
+    public Followers: Number,
+    public Following: Number,
     public Email: string,
-    public MemberSince: 0
+    public MemberSince: number
   ) {}
 }
