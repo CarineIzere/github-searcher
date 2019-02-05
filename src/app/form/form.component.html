@@ -1,3 +1,18 @@
-<p>
-  form works!
-</p>
+<div class="row">
+  <div class="col-md-12">
+    <form>
+      <div class="form-group">
+        <input
+          type="text"
+          class="form-control"
+          placeholder="Github Username"
+          [(ngModel)]="username"
+          name="username"
+        />
+      </div>
+      <button type="text" class="form-control" (keyup)="search()">
+        Search any user on Github
+      </button>
+    </form>
+  </div>
+</div>
