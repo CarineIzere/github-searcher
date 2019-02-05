@@ -1,6 +1,7 @@
 <div class="row">
   <div class="col-md-12">
     <form>
+      <app-form></app-form>
       <div class="form-group">
         <input
           type="text"
@@ -11,9 +12,6 @@
           (keyup)="search()"
         />
       </div>
-      <button type="text" class="submit" (keyup)="search()">
-        Search any user on Github
-      </button>
     </form>
   </div>
 </div>
@@ -48,6 +46,9 @@
           <ul class="list-group">
             <li class="list-group-item">
               <strong>Username: </strong>{{ user.login }}
+            </li>
+            <li class="list-group-item">
+              <strong>Repositories: </strong>{{ user.repositories }}
             </li>
             <li class="list-group-item">
               <strong>Location: </strong>{{ user.location }}
