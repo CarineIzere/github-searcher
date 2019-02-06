@@ -6,6 +6,20 @@
 4. [Development server](#Development-server)
 5. [Setup/Installation Requirements](#Setup/Installation-Requirements)
 6. [Technologies Used](Technologies-Used)
+7. [Contributing](Contributing)
+8. [Contact information](Contact-information)
+9. [copyright](copyright)
+10. [License](License)
+11. [Acknowledgement](Acknowledgement)
+12.
+
+
+    copyright
+    Copyright (c) [2019][carine izere]
+    License
+    This software CarineIzere/pig-dice6 is licensed under the MIT license.
+    Acknowledgement
+    It will be a great pressure for anyone will use my code this will promote me and i will give you a gift
 
 ## GITHUB AUTO_SEARCH
 
@@ -37,6 +51,14 @@
      Angular js
      classes
      components etc..
+
+## Contributing
+
+     pull requests are encouraged
+
+## Contact information
+
+     For assistance contact carizeree@gmail.com or call me at : +205783706421
 
 ## Code scaffolding
 
