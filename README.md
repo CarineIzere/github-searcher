@@ -5,13 +5,13 @@
 3. [Descripion](#Description)
 4. [Development server](#Development-server)
 5. [Setup/Installation Requirements](#Setup-Installation-Requirements)
-6. [Technologies Used](Technologies-Used)
-7. [Contributing](Contributing)
-8. [Contact information](Contact-information)
-9. [copyright](copyright)
-10. [License](License)
-11. [Acknowledgement](Acknowledgement)
-12.
+6. [Technologies Used](#Technologies-Used)
+7. [Live Demo](#Live-Demo)
+8. [Contributing](#Contributing)
+9. [Contact information](#Contact-information)
+10. [copyright](#copyright)
+11. [License](#License)
+12. [Acknowledgement](#Acknowledgement)
 
 ## GITHUB AUTO_SEARCH
 
@@ -26,7 +26,7 @@
 
      Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Setup/Installation Requirements
+## Setup-Installation Requirements
 
      git repository
      Visual studio code
@@ -40,9 +40,11 @@
      CSS
      visual studio code
      Bootstrap
-     Angular js
+     Angular js CLI
      classes
      components etc..
+
+## Live Demo
 
 ## Contributing
 
