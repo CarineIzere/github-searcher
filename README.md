@@ -1,7 +1,7 @@
-1. [My first title](#my-first-title)
+1. [title](#GITHUB AUTO_SEARCH)
 2. [My second title](#my-second-title)
 
-## My first title
+## GITHUB AUTO_SEARCH
 
 Some text.
 
