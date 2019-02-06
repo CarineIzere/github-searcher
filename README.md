@@ -1,11 +1,14 @@
 1. [title](#GITHUB-AUTO-SEARCH)
-2. [My second title](#my-second-title)
+2. [Author](#CARINE-IZERE)
+3. [Descripion](#Description)
 
 ## GITHUB AUTO_SEARCH
 
-Some text.
+## CARINE IZERE
 
-## My second title
+## Description
+
+    Use my GitHub Auto-search to find what you're looking for among the many repositories, users, and lines of code on GitHub.
 
 # GithubSearcher
 
