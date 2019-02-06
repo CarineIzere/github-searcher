@@ -5,7 +5,7 @@
         <input
           type="text"
           class="form-control"
-          placeholder="Github Username"
+          placeholder=" Please Enter a Github Username for searching"
           [(ngModel)]="username"
           name="username"
           (keyup)="search()"
@@ -60,7 +60,7 @@
               <strong>Email: </strong>{{ user.email }}
             </li>
             <li class="list-group-item">
-              <strong>Member Since: </strong>{{ user.created_at }}
+              <strong>Join Github From: </strong>{{ user.created_at }}
               <!-- dateCount.pipe -->
             </li>
           </ul>
