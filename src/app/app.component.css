@@ -10,4 +10,8 @@
   margin-left: 200px;
   margin-right: 400px;
   /* margin-right: 20%; */
+  color: white;
+}
+nav {
+  background-color: beige;
 }
