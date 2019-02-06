@@ -30,8 +30,8 @@
 
      git repository
      Visual studio code
-     Open an Angular Js
      chrome web browser
+     Create an Angular Js
      Git clone https://github.com/CarineIzere/GitHub-Searcher or download and unzip the repository from github. user $ git clone https://github.com/CarineIzere/GitHub-Searcher
 
 ## Technologies Used
@@ -43,8 +43,11 @@
      Angular js CLI
      classes
      components etc..
+     generate directive|pipe|service|class|guard|interface|enum|module
 
 ## Live Demo
+
+     you can run my project from ghpages using this link [Live Demo](#https://carineizere.github.io/github-searcher/)
 
 ## Contributing
 
