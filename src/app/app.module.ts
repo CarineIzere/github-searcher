@@ -6,9 +6,10 @@ import { AppRoutingModule } from "./app-routing.module";
 import { AppComponent } from "./app.component";
 import { ProfileSearchComponent } from "./profilesearch/profilesearch.component";
 import { FormComponent } from './form/form.component';
+import { DateCountPipe } from './date-count.pipe';
 
 @NgModule({
-  declarations: [AppComponent, ProfileSearchComponent, FormComponent],
+  declarations: [AppComponent, ProfileSearchComponent, FormComponent, DateCountPipe],
   imports: [BrowserModule, AppRoutingModule, FormsModule, HttpClientModule],
   providers: [],
   bootstrap: [AppComponent]
