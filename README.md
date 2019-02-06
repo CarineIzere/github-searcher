@@ -32,7 +32,7 @@
      Visual studio code
      chrome web browser
      Create an Angular Js
-     Git clone https://github.com/CarineIzere/GitHub-Searcher or download and unzip the repository from github. user $ git clone https://github.com/CarineIzere/GitHub-Searcher
+     Git clone https://github.com/CarineIzere/github-Searcher or download and unzip the repository from github. user $ git clone https://github.com/CarineIzere/github-Searcher
 
 ## Technologies Used
 
@@ -47,7 +47,7 @@
 
 ## Live Demo
 
-     you can run my project from ghpages using this link (https://carineizere.github.io/github-searcher/)
+     you can run my project from ghpages using this link [Live-Demo](https://carineizere.github.io/github-searcher/).
 
 ## Contributing
 
@@ -63,7 +63,7 @@
 
 ## License
 
-     This software CarineIzere/pig-dice6 is licensed under the MIT license.
+     This software CarineIzere/github-searcher is licensed under the MIT license.
 
 ## Acknowledgement
 
