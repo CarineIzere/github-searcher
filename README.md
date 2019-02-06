@@ -1,6 +1,9 @@
+# TABLE OF CONTENT
+
 1. [title](#GITHUB-AUTO-SEARCH)
 2. [Author](#CARINE-IZERE)
 3. [Descripion](#Description)
+4. [Development server](#Development-server)
 
 ## GITHUB AUTO_SEARCH
 
@@ -9,10 +12,7 @@
 ## Description
 
     Use my GitHub Auto-search to find what you're looking for among the many repositories, users, and lines of code on GitHub.
-
-# GithubSearcher
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.2.
+    This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.2.
 
 ## Development server
 
@@ -28,7 +28,7 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 ## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Run `ng test` to execute the unit tests via [Karma](https://CarineIzere.github.io).
 
 ## Running end-to-end tests
 
