@@ -1,4 +1,4 @@
-1. [title](#GITHUB AUTO_SEARCH)
+1. [title](#GITHUB-AUTO-SEARCH)
 2. [My second title](#my-second-title)
 
 ## GITHUB AUTO_SEARCH
