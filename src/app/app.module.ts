@@ -7,9 +7,10 @@ import { AppComponent } from "./app.component";
 import { ProfileSearchComponent } from "./profilesearch/profilesearch.component";
 import { FormComponent } from './form/form.component';
 import { DateCountPipe } from './date-count.pipe';
+import { StrikethroughDirective } from './strikethrough.directive';
 
 @NgModule({
-  declarations: [AppComponent, ProfileSearchComponent, FormComponent, DateCountPipe],
+  declarations: [AppComponent, ProfileSearchComponent, FormComponent, DateCountPipe, StrikethroughDirective],
   imports: [BrowserModule, AppRoutingModule, FormsModule, HttpClientModule],
   providers: [],
   bootstrap: [AppComponent]
