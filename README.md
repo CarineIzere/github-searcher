@@ -1,3 +1,12 @@
+1. [My first title](#my-first-title)
+2. [My second title](#my-second-title)
+
+## My first title
+
+Some text.
+
+## My second title
+
 # GithubSearcher
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.2.
