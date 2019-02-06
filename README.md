@@ -47,7 +47,7 @@
 
 ## Live Demo
 
-     you can run my project from ghpages using this link [Live Demo](#https://carineizere.github.io/github-searcher/)
+     you can run my project from ghpages using this link [Live Demo](https://carineizere.github.io/github-searcher/)
 
 ## Contributing
 
